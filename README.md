@@ -4,11 +4,12 @@ Xbox 360 일본판 `트러스티 벨` ISO에 현재 확정된 한글 패치(AI �
 
 ## 샘플
 
-![Sample 1](samples/sample1.jpg)
-
-![Sample 2](samples/sample2.jpg)
-
-![Sample 3](samples/sample3.jpg)
+<p>
+  <img src="samples/sample1.jpg" width="49%">
+  <img src="samples/sample2.jpg" width="49%"><br>
+  <img src="samples/sample3.jpg" width="49%">
+  <img src="samples/sample4.jpg" width="49%">
+</p>
 
 ## 사용법
 
@@ -33,6 +34,8 @@ Xbox 360 일본판 `트러스티 벨` ISO에 현재 확정된 한글 패치(AI �
 **[릴리즈 페이지](../../releases)** 에서 다운로드하세요.
 
 본 패치를 다운로드하거나 사용하는 경우 아래의 면책조항 및 이용안내를 확인하고 이에 동의한 것으로 간주합니다.
+
+윈도우/안드로이드/스팀OS 등의 타기종 포팅은 **[해당 사이트](https://view5199.tistory.com/26)** 를 참고하세요.
 
 ## 면책조항
 
